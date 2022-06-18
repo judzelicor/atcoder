@@ -15,5 +15,3 @@ class Solution:
 
         print(power_strip_count)
 
-solution = Solution()
-
