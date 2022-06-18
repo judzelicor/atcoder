@@ -10,7 +10,6 @@ class Solution:
         return f"{tens}{ones}"
 
 
-
 solution = Solution()
 
 
@@ -27,6 +26,4 @@ assert solution.solve(304) == "04"
 
 # If the number is 21, it should return the string 21, as they are the last two digits of this two digit number.
 assert solution.solve(21) == "21"
-
-
 
